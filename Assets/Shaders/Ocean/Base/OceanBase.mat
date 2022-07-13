@@ -41,12 +41,20 @@ Material:
     m_Floats:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _Color_Blend: 0.95
-    - _Color_Height: 9.85
+    - _Color_Blend: 0.939
+    - _Color_Height: 9.5
+    - _Color_Offset: 4
+    - _Disable_spacing: 0
+    - _Enable_spacing: 0
     - _Float: 0
-    - _Ripples_Height: 0
-    - _Speed: 1
+    - _Ripples_Blend: 1
+    - _Ripples_Density: 0.96
+    - _Ripples_Height: 1.25
+    - _Ripples_Offset: 0.008
+    - _Ripples_Spacing: 1.95
+    - _Speed: 2
     - _Strength: 5
+    - _Temp: -16.51
     m_Colors:
     - _Base_Color: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 0.38319823, g: 0.19032574, b: 0.8584906, a: 0}
