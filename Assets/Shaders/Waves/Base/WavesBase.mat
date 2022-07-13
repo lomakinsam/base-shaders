@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: OceanBase
+  m_Name: WavesBase
   m_Shader: {fileID: -6465566751694194690, guid: 7ab63728d744d594881a4fdac189aa84, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -45,7 +45,7 @@ Material:
     - _Color_Height: 9.5
     - _Color_Offset: 4
     - _Disable_spacing: 0
-    - _Enable_spacing: 0
+    - _Enable_spacing: 1
     - _Float: 0
     - _Ripples_Blend: 1
     - _Ripples_Density: 0.96
