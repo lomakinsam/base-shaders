@@ -22,16 +22,16 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _Amplitude: 6
+    - _Amplitude: 1.39
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _Depth: 9
-    - _Gravity: 9
+    - _Depth: 11.6
+    - _Gravity: 9.8
     - _Phase: 0
-    - _TImeScale: 2
+    - _TImeScale: 1
     m_Colors:
     - _Color: {r: 0.09625311, g: 0.5015351, b: 0.9716981, a: 0}
-    - _Direction: {r: 0.1, g: 0, b: 0, a: 0}
+    - _Direction: {r: 0.25, g: 0, b: 0.25, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &6246694232091136405
 MonoBehaviour:
