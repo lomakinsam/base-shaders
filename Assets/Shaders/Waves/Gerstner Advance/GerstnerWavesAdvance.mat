@@ -22,13 +22,13 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _Amplitude: 1
+    - _Amplitude: 10
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _Speed: 1
-    - _Wave_length: 10
+    - _Speed: 50
+    - _Wave_length: 100
     m_Colors:
-    - _Color: {r: 0.34242615, g: 0.52041936, b: 0.764151, a: 0}
+    - _Color: {r: 0, g: 0.37368998, b: 0.8773585, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2736561176872715859
 MonoBehaviour:
