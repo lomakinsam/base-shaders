@@ -26,15 +26,19 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Alpha: 0.75
+    - _Alpha: 0.5
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _Color_Blend: 0
-    - _Gradient_Offset: -0.6
+    - _Draw_Edge: 0.5
+    - _Gradient_Offset: -0.55
+    - _Horizontal_Noise: 7.5
     - _NoisePower: 1.5
-    - _NoiseSpeed: 0.35
-    - _NoiseTilling: 1
-    - _Speed: 0.25
+    - _NoiseSpeed: 0.25
+    - _NoiseTilling: 2
+    - _Position_Noise_Scale: 2
+    - _Speed: 0.15
+    - _Vertical_Noise: 3.5
     m_Colors:
     - _Color: {r: 0.31835172, g: 0.9245283, b: 0.79606706, a: 0.7490196}
   m_BuildTextureStacks: []
