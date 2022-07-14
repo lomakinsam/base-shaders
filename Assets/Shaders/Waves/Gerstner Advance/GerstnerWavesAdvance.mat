@@ -25,8 +25,9 @@ Material:
     - _Amplitude: 10
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _Speed: 50
-    - _Wave_length: 100
+    - _Speed: 5
+    - _Steepness: 0.121
+    - _Wave_length: 20
     m_Colors:
     - _Color: {r: 0, g: 0.37368998, b: 0.8773585, a: 0}
   m_BuildTextureStacks: []
