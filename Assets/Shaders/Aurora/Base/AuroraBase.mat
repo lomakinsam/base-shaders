@@ -26,8 +26,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Alpha: 0.75
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
+    - _Color_Blend: 0
+    - _Gradient_Offset: -0.6
     - _NoisePower: 1.5
     - _NoiseSpeed: 0.35
     - _NoiseTilling: 1
